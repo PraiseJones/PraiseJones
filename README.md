@@ -1,6 +1,8 @@
+# Hello
+
 - 👋 Hi, I’m @PraiseJones
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Fullstack
 - 📫 How to reach me Praisejones18@gmail.com
 
 <!---
