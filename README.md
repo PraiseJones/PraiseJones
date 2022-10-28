@@ -1,11 +1,29 @@
-# Hello
 
-- 👋 Hi, I’m @PraiseJones
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Fullstack
-- 📫 How to reach me Praisejones18@gmail.com
+# Introduction
+This is a brief Introduction
 
-<!---
-PraiseJones/PraiseJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hi, I'm Praise Jones! 👋
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS and Node.js...
+
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Praise_theWiz)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on a node.js server project...
+
+🧠 I'm currently learning javascript and node.js...
+
+🤔 I'm looking for help with node.js ...
+
+⚡️ Fun fact: I hate bugs...
+
